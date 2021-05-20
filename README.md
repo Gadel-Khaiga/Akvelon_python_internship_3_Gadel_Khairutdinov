@@ -19,10 +19,8 @@ Django REST:
 
 
   to view and edit a record, you will need to go to: http://127.0.0.1:8000/api/v1/Wolf/detail/<int: pk>/ '- where (<int: pk> /) is the ID of the record
-  ![изображение](https://user-images.githubusercontent.com/81361783/118976060-42efe280-b97d-11eb-84a2-fb249f30a025.png)
-
-
   that is, it should look like this: http://127.0.0.1:8000/api/v1/Wolf/detail/1
+  ![изображение](https://user-images.githubusercontent.com/81361783/118976060-42efe280-b97d-11eb-84a2-fb249f30a025.png)
   
   
 Fibonacci:
